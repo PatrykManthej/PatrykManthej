@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C#, ASP.NET, Blazor, Azure, JavaScript, React**
 
-- 📫 You can find me on [Linkedin](https://www.linkedin.com/in/patryk-manthej-96270485)
+- 📫 You can find me on [Linkedin](https://www.linkedin.com/in/patrykmanthej)
 
 - 📄My experience: 
   - Currently freelancer Junior .NET Developer at [ShareFund](https://www.sfundr.com/pl/strona-glowna/).
